@@ -11,7 +11,7 @@ This course explores Javascript based front-end application development, and in 
 <h3>Introduction to React</h3>
 In this module we get a quick introduction to front-end JavaScript frameworks and libraries, followed by an introduction to React. We will also learn about React components and JSX.
 
-<h3<React Router and Single Page Applications</h3>
+<h3>React Router and Single Page Applications</h3>
 In this week, you will learn about various component types. You will learn about React router and its use in designing single page applications. You will also learn about single page applications and use React Router to design single page applications.
 
 <h3>React Forms, Flow Architecture and Introduction to Redux</h3>
