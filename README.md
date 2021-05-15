@@ -18,4 +18,5 @@ In this week, you will learn about various component types. You will learn about
 In this module you will be introduced to uncontrolled and controlled forms and briefly examine form validation in React applications. You will get an overview of the Flux architecture and introduced to Redux as a way of realizing the flux architecture.
 
 <h3>More Redux and Client-Server Communication</h3>
+
 In this module you will explore Redux further including Redux action, combining reducers, and Redux thunk, client-server communication using Fetch and the REST API. You will get a brief introduction to animation in React. You will also learn about testing, building and deploying React applications.
