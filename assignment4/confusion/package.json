@@ -6,7 +6,7 @@
     "babel-loader": "^8.0.6",
     "bootstrap": "^4.0.0",
     "bootstrap-social": "^5.1.1",
-    "cross-fetch": "^2.2.3",
+    "cross-fetch": "^3.1.5",
     "font-awesome": "^4.7.0",
     "react": "^16.8.6",
     "react-animation-components": "^3.0.0",
